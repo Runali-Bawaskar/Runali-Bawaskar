@@ -19,9 +19,9 @@ I'm a passionate and detail-oriented Data Analyst with a strong foundation in SQ
   - A comprehensive SQL-based project managing student records, grades, and attendance, with advanced querying and reporting capabilities.
   - ![SQL Code](https://via.placeholder.com/600x400.png?text=SQL+Code+Snippet)
 
-- **[🛒 Amazon Sales Dashboard](#)**: 
+- **[🛒 Healthcare Hospital Dashboard](https://github.com/Runali-Bawaskar/PowerBI-Projects/tree/main/Healthcare%20Hospital)**: 
   - A Power BI dashboard visualizing Amazon sales data, focusing on sales performance, customer behavior, and product analysis.
-  - ![Power BI Preview](https://via.placeholder.com/600x400.png?text=Power+BI+Preview)
+  - ![Power BI Preview](https://github.com/Runali-Bawaskar/PowerBI-Projects/blob/main/Healthcare%20Hospital/Dashboard%20Preview.png)
 
 - **[🕸️ Web Scraper](#)**: 
   - A Python-based web scraper extracting product details from e-commerce websites, including data cleaning and storage.
