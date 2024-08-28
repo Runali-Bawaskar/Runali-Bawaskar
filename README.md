@@ -23,17 +23,17 @@ I'm a passionate and detail-oriented Data Analyst with a strong foundation in SQ
   - A Power BI dashboard visualizing Hospital operations, focusing on resource allocation, patients insights, and health insurance negotiations.
   - ![Power BI Preview](https://github.com/Runali-Bawaskar/PowerBI-Projects/blob/main/Healthcare%20Hospital/Dashboard%20Preview.png)
 
-- **[🕸️ Web Scraper](#)**: 
-  - A Python-based web scraper extracting product details from e-commerce websites, including data cleaning and storage.
-  - ![Python Code](https://via.placeholder.com/600x400.png?text=Python+Code+Snippet)
+- **[🕸️ Wekipedia Web Scraper](https://github.com/Runali-Bawaskar/Python-Projects/tree/main/Wikipedia%20Web%20Scrapper)**: 
+  - A Python-based web scraper extracting top revenue companies from wikipedia, data cleaning and storage.
+  - ![Python Code](https://github.com/Runali-Bawaskar/Python-Projects/blob/main/Wikipedia%20Web%20Scrapper/code%20Snippet.png)
 
 ### 🌱 What I'm Currently Learning
 - Advanced Machine Learning techniques and deploying models.
 - Building interactive dashboards with Python and Power BI.
 
 ### 💬 Let's Connect
-- **[LinkedIn](#)**
-- **[Email](#)**
+- **[LinkedIn](https://www.linkedin.com/in/runali-bawaskar)**
+- **[Email](runalibawaskar1998@gmail.com)**
 
 ---
 
