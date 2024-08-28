@@ -15,9 +15,9 @@ I'm a passionate and detail-oriented Data Analyst with a strong foundation in SQ
   - An interactive Excel dashboard analyzing road accident data, providing key insights into accident trends, locations, and causes.
   - ![Dashboard Preview](https://github.com/Runali-Bawaskar/Excel-Projects/blob/main/Road%20Accident%20Dashboard/Dashboard%20preview.png)
 
-- **[🎓 School Management System](#)**: 
+- **[🎓 School Management System](https://github.com/Runali-Bawaskar/SQL-Projects/tree/main/School%20Management%20System)**: 
   - A comprehensive SQL-based project managing student records, grades, and attendance, with advanced querying and reporting capabilities.
-  - ![SQL Code](https://via.placeholder.com/600x400.png?text=SQL+Code+Snippet)
+  - ![SQL Code](https://github.com/Runali-Bawaskar/SQL-Projects/blob/main/School%20Management%20System/code%20snippet.png)
 
 - **[🛒 Healthcare Hospital Dashboard](https://github.com/Runali-Bawaskar/PowerBI-Projects/tree/main/Healthcare%20Hospital)**: 
   - A Power BI dashboard visualizing Hospital operations, focusing on resource allocation, patients insights, and health insurance negotiations.
