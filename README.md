@@ -20,7 +20,7 @@ I'm a passionate and detail-oriented Data Analyst with a strong foundation in SQ
   - ![SQL Code](https://via.placeholder.com/600x400.png?text=SQL+Code+Snippet)
 
 - **[🛒 Healthcare Hospital Dashboard](https://github.com/Runali-Bawaskar/PowerBI-Projects/tree/main/Healthcare%20Hospital)**: 
-  - A Power BI dashboard visualizing Amazon sales data, focusing on sales performance, customer behavior, and product analysis.
+  - A Power BI dashboard visualizing Hospital operations, focusing on resource allocation, patients insights, and health insurance negotiations.
   - ![Power BI Preview](https://github.com/Runali-Bawaskar/PowerBI-Projects/blob/main/Healthcare%20Hospital/Dashboard%20Preview.png)
 
 - **[🕸️ Web Scraper](#)**: 
